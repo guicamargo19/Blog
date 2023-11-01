@@ -10,6 +10,8 @@ db.sqlite3
 gunicorn-error-log
 /djangoapp/project/local_settings.py
 __localcode
+gunicorn.txt
+nginx_http.txt
 
 # Backup files # 
 *.bak 
