@@ -4,14 +4,15 @@
 *.pyc
 __pycache__
 db.sqlite3
+gunicorn.txt
+nginx_http.txt
 /data/
 /djangoapp/media/
 /djangoapp/static/
 gunicorn-error-log
 /djangoapp/project/local_settings.py
 __localcode
-gunicorn.txt
-nginx_http.txt
+
 
 # Backup files # 
 *.bak 
